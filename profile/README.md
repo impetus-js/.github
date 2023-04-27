@@ -1,6 +1,6 @@
 # `@impetus-js`
 
-![Runner locked and loaded for a relay race](./braden-collum-9HI8UJMSdZA-unsplash.jpg)
+![Runner locked and loaded for a relay race](https://raw.githubusercontent.com/impetus-js/.github/main/profile/braden-collum-9HI8UJMSdZA-unsplash.jpg)
 
 ## About
 `@impetus-js` (no relation to the company Impetus) is my organization for all the tools that I build that are primarily for myself and to show off interesting code. I guess one could say that I'm working on problems that I find interesting. For instance I don't have an interest in consistently configuring a website or setting up my `eslint` rules. I hope to add some `VSCode` custom plugins (depending on complexity). Many of these projects are intended for personal use but will be published to `npm` if I deem them useful enough.
